@@ -2,6 +2,6 @@
 Conceitos básicos para python
 
 
-
-kemoel
-Lucas
+```py
+  Vamos aprender os conceitos básicos da linguagem python
+```
